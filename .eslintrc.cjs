@@ -18,4 +18,10 @@ module.exports = {
       { allowConstantExport: true },
     ],
   },
+  // overrides: [
+  //   {
+  //     // This is required for `npx eslint .` to work
+  //     files: ["*.js", "*.jsx"],
+  //   },
+  // ],
 }
